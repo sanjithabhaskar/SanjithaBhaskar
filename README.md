@@ -1,4 +1,4 @@
-### Hi there, I'm Sanjitha Bhaskar! 👋
+### Hi there, I'm Sanjitha Bhaskar! 
 
 I am an MS Data Analytics graduate from Binghamton University with a strong foundation in Computer Engineering[span_6](start_span)[span_6](end_span). My work sits at the intersection of **Data Science, AI Engineering, and Enterprise Workflow Automation**. 
 
