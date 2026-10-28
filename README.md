@@ -13,8 +13,8 @@ I am an MS Data Analytics graduate from Binghamton University with a strong foun
 ---
 
 ### 📂 Featured Projects
-* **[SpecTrace](https://github.com/sanjithabhaskar/SpecTrace):** Enterprise Multi-Engine RAG & Citation Guardrail System for Heavy Civil Construction Management[span_7](start_span)[span_7](end_span).
-* **[GlyIndex](https://github.com/sanjithabhaskar/GlyIndex):** A comprehensive web application for managing food choices and tracking dietary metrics based on the Glycemic Index[span_8](start_span)[span_8](end_span).
+* **[SpecTrace](https://github.com/sanjithabhaskar/SpecTrace):** Enterprise Multi-Engine RAG & Citation Guardrail System for Heavy Civil Construction Management.
+* **[GlyIndex](https://github.com/sanjithabhaskar/GlyIndex):** A comprehensive web application for managing food choices and tracking dietary metrics based on the Glycemic Index.
 * **[ResumeFilter](https://github.com/sanjithabhaskar/ResumeFilter):** Automated resume screening system built with n8n and SQL databases to match candidate profiles with job descriptions.
 
 ---
